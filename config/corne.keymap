@@ -29,10 +29,10 @@
 
         Raise_layer {
             bindings = <
-&kp TAB  &kp EXCLAMATION  &kp AT_SIGN  &kp HASH   &kp DOLLAR         &kp PERCENT      &kp CARET       &kp AMPERSAND  &kp ASTERISK      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp BACKSPACE
-&kp F1   &kp F2           &kp F3       &kp F4     &kp F5             &kp F6           &kp MINUS       &kp EQUAL      &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &kp BACKSLASH          &kp GRAVE
-&kp F7   &kp F8           &kp F9       &kp F10    &kp F11            &kp F12          &kp UNDERSCORE  &kp PLUS       &kp LEFT_BRACE    &kp RIGHT_BRACE       &kp PIPE               &kp TILDE
-                                       &kp COMMA  &kp DOUBLE_QUOTES  &kp undefined    &trans          &trans         &trans
+&kp TAB  &kp EXCLAMATION  &kp AT_SIGN  &kp HASH   &kp DOLLAR         &kp PERCENT    &kp CARET       &kp AMPERSAND  &kp ASTERISK      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp BACKSPACE
+&kp F1   &kp F2           &kp F3       &kp F4     &kp F5             &kp F6         &kp MINUS       &kp EQUAL      &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &kp BACKSLASH          &kp GRAVE
+&kp F7   &kp F8           &kp F9       &kp F10    &kp F11            &kp F12        &kp UNDERSCORE  &kp PLUS       &kp LEFT_BRACE    &kp RIGHT_BRACE       &kp PIPE               &kp TILDE
+                                       &kp COMMA  &kp DOUBLE_QUOTES  &kp SPACE      &trans          &trans         &trans
             >;
         };
     };
